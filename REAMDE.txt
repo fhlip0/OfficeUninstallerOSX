@@ -1,0 +1,20 @@
+current usage is as such
+tested working on macOS 10.12 and Office 2016 and 2011
+
+
+copy via LogMeIn file manager to /Users/shared 
+ -log into Remote Support or other Admin account (MUST be admin)
+  -open terminal (i showed using spotlight and just searching in my demo for ease)
+  -run "cd ../Shared" no quotes
+  -run "sudo python ./officeuninstall.py" 
+
+-script will ask if you want to uninstall office 2011 or 2016.
+
+-it will then take care of removing it from Applications, backend Library folders, and Preferences
+
+-Finally it will ask if you want to clear the dock of any Office applications and restart the dock
+
+
+
+
+It is recommened to reboot prior to installing a new version of Office after this.
