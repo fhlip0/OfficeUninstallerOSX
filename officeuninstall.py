@@ -1,5 +1,14 @@
 #!/usr/bin/env python
 # coding: utf-8
+
+
+#Office Uninstall Script, just run and select version!
+#Author: Philip Holbrook
+
+
+#Dock removal code from https://github.com/jcarm010/osx-dock-remover - slightly tweaked to suite our needs
+
+
 import sys, getopt
 import os
 import subprocess

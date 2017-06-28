@@ -11,5 +11,4 @@ This is a simple rm python script that takes care of the same work noted in http
   -it will ask if you are uninstalling 2011 or 2016 - then remove the appropriate files 
     -will then ask if you want to clear the dock Office icons
 	
-	
-	please let me know of any issues / concerns - i have tested on 10.12 and thats about it - - but since its so basic, it should be fine
+please let me know of any issues / concerns - i have tested on 10.12 and thats about it - - but since its so basic, it should be fine
